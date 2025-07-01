@@ -1,4 +1,4 @@
-function  x=a_msg(x)
+function  x=a_msg(x) //zhushi
 x=[0    0   0
     0   0   1
     0   0   2
